@@ -1,0 +1,112 @@
+<div style="background-color: #c9e9fc; color: black; margin-bottom: 20px; padding: 10px; border-radius: 5px;">
+    <h2>Cronograma de actividades y talleres</h2>
+</div>
+
+<table style="width: 100%; border-collapse: collapse;">
+    <caption style="caption-side: top; font-weight: bold; font-size: 1.2em;">Cronograma de marzo y principios de abril</caption>
+    <thead>
+        <tr style="background-color: #f2f2f2;">
+            <th scope="col" style="padding: 15px; border: 1px solid #ddd; background-color: #c9e9fc; color: black; width: 20%;">Lunes</th>
+            <th scope="col" style="padding: 15px; border: 1px solid #ddd; background-color: #c9e9fc; color: black; width: 20%;">Martes</th>
+            <th scope="col" style="padding: 15px; border: 1px solid #ddd; background-color: #c9e9fc; color: black; width: 20%;">Miércoles</th>
+            <th scope="col" style="padding: 15px; border: 1px solid #ddd; background-color: #c9e9fc; color: black; width: 20%;">Jueves</th>
+            <th scope="col" style="padding: 15px; border: 1px solid #ddd; background-color: #c9e9fc; color: black; width: 20%;">Viernes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Puedes agregar filas con contenido para cada semana -->
+        <tr>
+            <td style="padding: 15px; border: 1px solid #ddd; background-color: ddd; color: #fff;">
+                <span style="display: inline-block; width: 20px; height: 20px; border-radius: 50%; background-color: #ddd; color: black;margin-right: 10px; text-align: center; line-height: 20px;">11<br><br><br><br><br><br><br><br><br></span>
+            </td>
+            <td style="padding: 15px; border: 1px solid #ddd; background-color: #fff; color: black;">
+                <div style="display: inline-block; width: 20px; height: 20px; border-radius: 50%; background-color: #ddd; color: black; margin-right: 10px; text-align: center; line-height: 20px;">12<br><br></div>
+                <div style=" margin-bottom: 10px; background-color: #990000; padding: 10px; border-radius: 5px;">
+                    <p style="margin-bottom: 10px; color: #fff;"><strong>Herramientas para dar tus primeros pasos en FAMAF. Aula 31. 18 hs.</strong></p>
+                </div>
+            </td>
+
+
+            <td style="padding: 15px; border: 1px solid #ddd; background-color: ddd; color: #fff;">
+                <span style="display: inline-block; width: 20px; height: 20px; border-radius: 50%; background-color: #ddd; color: black;margin-right: 10px; text-align: center; line-height: 20px;">13<br><br><br><br><br><br><br><br><br></span>
+            </td>
+            <td style="padding: 15px; border: 1px solid #ddd; background-color: ddd; color: #fff;">
+                <span style="display: inline-block; width: 20px; height: 20px; border-radius: 50%; background-color: #ddd; color: black;margin-right: 10px; text-align: center; line-height: 20px;">14<br><br><br><br><br><br><br><br><br></span>
+            </td>
+            <td style="padding: 15px; border: 1px solid #ddd; background-color: ddd; color: #fff;">
+                <span style="display: inline-block; width: 20px; height: 20px; border-radius: 50%; background-color: #ddd; color: black;margin-right: 10px; text-align: center; line-height: 20px;">15<br><br><br><br><br><br><br><br><br></span>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 15px; border: 1px solid #ddd; background-color: ddd; color: #fff;">
+                <span style="display: inline-block; width: 20px; height: 20px; border-radius: 50%; background-color: #ddd; color: black;margin-right: 10px; text-align: center; line-height: 20px;">18<br><br><br><br><br><br><br><br></span>
+            </td>
+            <td style="padding: 15px; border: 1px solid #ddd; background-color: ddd; color: #fff;">
+                <span style="display: inline-block; width: 20px; height: 20px; border-radius: 50%; background-color: #ddd; color: black;margin-right: 10px; text-align: center; line-height: 20px;">19<br><br><br><br><br><br><br><br></span>
+            </td>
+            <td style="padding: 15px; border: 1px solid #ddd; background-color: ddd; color: #fff;">
+                <span style="display: inline-block; width: 20px; height: 20px; border-radius: 50%; background-color: #ddd; color: black;margin-right: 10px; text-align: center; line-height: 20px;">20<br><br><br><br><br><br><br><br></span>
+            </td>
+            <td style="padding: 15px; border: 1px solid #ddd; background-color: ddd; color: #fff;">
+                <span style="display: inline-block; width: 20px; height: 20px; border-radius: 50%; background-color: #ddd; color: black;margin-right: 10px; text-align: center; line-height: 20px;">21<br><br><br><br><br><br><br><br></span>
+            </td>
+            <td style="padding: 15px; border: 1px solid #ddd; background-color: ddd; color: #fff;">
+                <span style="display: inline-block; width: 20px; height: 20px; border-radius: 50%; background-color: #ddd; color: black;margin-right: 10px; text-align: center; line-height: 20px;">22<br><br><br><br><br><br><br><br></span>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 15px; border: 1px solid #ddd; background-color: ddd; color: #fff;">
+                <span style="display: inline-block; width: 20px; height: 20px; border-radius: 50%; background-color: #ddd; color: black;margin-right: 10px; text-align: center; line-height: 20px;">25<br><br><br><br><br><br><br><br></span>
+            </td>
+            <td style="padding: 15px; border: 1px solid #ddd; background-color: ddd; color: #fff;">
+                <span style="display: inline-block; width: 20px; height: 20px; border-radius: 50%; background-color: #ddd; color: black;margin-right: 10px; text-align: center; line-height: 20px;">26<br><br><br><br><br><br><br><br></span>
+            </td>
+            <td style="padding: 15px; border: 1px solid #ddd; background-color: ddd; color: #fff;">
+                <span style="display: inline-block; width: 20px; height: 20px; border-radius: 50%; background-color: #ddd; color: black;margin-right: 10px; text-align: center; line-height: 20px;">27<br><br><br><br><br><br><br><br></span>
+            </td>
+            <td style="padding: 15px; border: 1px solid #ddd; background-color: ddd; color: #fff;">
+                <span style="display: inline-block; width: 20px; height: 20px; border-radius: 50%; background-color: #ddd; color: black;margin-right: 10px; text-align: center; line-height: 20px;">28<br><br><br><br><br><br><br><br></span>
+            </td>
+            <td style="padding: 15px; border: 1px solid #ddd; background-color: ddd; color: #fff;">
+                <span style="display: inline-block; width: 20px; height: 20px; border-radius: 50%; background-color: #ddd; color: black;margin-right: 10px; text-align: center; line-height: 20px;">29<br><br><br><br><br><br><br><br></span>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 15px; border: 1px solid #ddd; background-color: #F5F5F5; color: #fff;">
+                <span style="display: inline-block; width: 20px; height: 20px; border-radius: 50%; background-color: #ddd; color: black;margin-right: 10px; text-align: center; line-height: 20px;">1<br><br><br><br><br><br><br><br></span>
+            </td>
+            <td style="padding: 15px; border: 1px solid #ddd; background-color: #F5F5F5; color: #fff;">
+                <span style="display: inline-block; width: 20px; height: 20px; border-radius: 50%; background-color: #ddd; color: black;margin-right: 10px; text-align: center; line-height: 20px;">2<br><br><br><br><br><br><br><br></span>
+            </td>
+            <td style="padding: 15px; border: 1px solid #ddd; background-color: #F5F5F5; color: #fff;">
+                <span style="display: inline-block; width: 20px; height: 20px; border-radius: 50%; background-color: #ddd; color: black;margin-right: 10px; text-align: center; line-height: 20px;">3<br><br><br><br><br><br><br><br></span>
+            </td>
+            <td style="padding: 15px; border: 1px solid #ddd; background-color: #F5F5F5; color: #fff;">
+                <span style="display: inline-block; width: 20px; height: 20px; border-radius: 50%; background-color: #ddd; color: black;margin-right: 10px; text-align: center; line-height: 20px;">4<br><br><br><br><br><br><br><br></span>
+            </td>
+            <td style="padding: 15px; border: 1px solid #ddd; background-color: #F5F5F5; color: #fff;">
+                <span style="display: inline-block; width: 20px; height: 20px; border-radius: 50%; background-color: #ddd; color: black;margin-right: 10px; text-align: center; line-height: 20px;">5<br><br><br><br><br><br><br><br></span>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<p><br></p>
+
+<div style="background-color: #fff; color: black; margin-bottom: 20px; padding: 10px; border-radius: 5px;">
+    <p><span style="font-size: 1.17188rem; font-weight: 700;">Códigos de color</span><br></p>
+    <div style="margin-bottom: 10px;">
+        <span style="display: inline-block; width: 15px; height: 15px; border-radius: 50%; background-color: #990000; margin-right: 10px;"></span>
+        <strong>Bordó:</strong>&nbsp;actividades especiales
+    </div>
+
+    <div style="margin-bottom: 10px;">
+        <span style="display: inline-block; width: 15px; height: 15px; border-radius: 50%; background-color: #3366cc; margin-right: 10px;"></span>
+        <strong>Azul:</strong>&nbsp;actividades periódicas
+    </div>
+
+    <div>
+        <span style="display: inline-block; width: 15px; height: 15px; border-radius: 50%; background-color: #006633; margin-right: 10px;"></span>
+        <strong>Verde:</strong>&nbsp;grupo de estudio
+    </div>
+</div>
