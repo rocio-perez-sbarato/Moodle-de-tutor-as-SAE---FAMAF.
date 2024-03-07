@@ -1,0 +1,159 @@
+<img src="https://famaf.aulavirtual.unc.edu.ar/draftfile.php/8651/user/draft/915498027/banner_tutores.jpeg?time=1709689593426" alt="Banner de tutores FAMAF. Texto: #SAE | #InfoIngresantes UNC FAMAF Tutores/as FAMAF" width="1200" height="477" class="img-fluid atto_image_button_text-bottom"><br>
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+
+    <!-- Columna Quiénes somos con acordeones -->
+    <div style="flex: 0 1 calc(100% - 20px); margin-bottom: 0;">
+        <div style="max-width: 800px; margin: 0 auto; padding: 20px; background-color: #FFFFFF; ">
+            <div style="background-color: rgb(59,131,189); color: #fff; margin-bottom: 20px; padding: 10px; border-radius: 5px;">
+                <h2 style="margin: 0;">¿Quiénes somos?</h2>
+            </div>
+            <p> Somos los/as tutores/as de la Secretaría de Asuntos Estudiantiles (SAE). Nuestro equipo de trabajo está conformado por estudiantes de diversas carreras de la facultad. A continuación, nos presentamos individualmente y compartimos nuestros contactos.
+            </p>
+            <div class="acordeon" style="display: flex; flex-wrap: wrap;">
+
+                <div class="acordeon-item" style="flex: 0 1 calc(33.33% - 10px); margin-bottom: 10px;">
+                    <label class="acordeon-label">Nico ▼</label>
+                    <div class="acordeon-content" style="display: none;">
+                        <p><strong style="font-size: 0.9375rem;">Nico</strong></p>
+                        <img src="https://famaf.aulavirtual.unc.edu.ar/draftfile.php/8651/user/draft/915498027/conejito.jpg" alt="conejito" width="612" height="408" class="img-fluid atto_image_button_text-bottom"><br><br>
+                        <ul>
+                            <li><em>Carrera:</em>&nbsp;</li>
+                            <li><em>Sobre mí:</em>&nbsp;</li>
+                            <li><em>Contacto:</em>
+                                <ul>
+                                    <li>Correo electrónico:&nbsp;</li>
+                                    <li>Mensaje privado en aula virtual:&nbsp;</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="acordeon-item" style="flex: 0 1 calc(33.33% - 10px); margin-bottom: 10px;">
+                    <label class="acordeon-label">Delfi ▼</label>
+                    <div class="acordeon-content" style="display: none;">
+                        <p><strong style="font-size: 0.9375rem;">Delfi</strong></p>
+                        <img src="https://famaf.aulavirtual.unc.edu.ar/draftfile.php/8651/user/draft/915498027/conejito.jpg" alt="conejito" width="612" height="408" class="img-fluid atto_image_button_text-bottom"><br><br>
+                        <ul>
+                            <li><em>Carrera:</em>&nbsp;</li>
+                            <li><em>Sobre mí:</em>&nbsp;</li>
+                            <li><em>Contacto:</em>
+                                <ul>
+                                    <li>Correo electrónico:&nbsp;</li>
+                                    <li>Mensaje privado en aula virtual:&nbsp;</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="acordeon-item" style="flex: 0 1 calc(33.33% - 10px); margin-bottom: 10px;">
+                    <label class="acordeon-label">Cata ▼</label>
+                    <div class="acordeon-content" style="display: none;">
+                        <p><strong style="font-size: 0.9375rem;">Cata</strong></p>
+                        <img src="https://famaf.aulavirtual.unc.edu.ar/draftfile.php/8651/user/draft/915498027/conejito.jpg" alt="conejito" width="612" height="408" class="img-fluid atto_image_button_text-bottom"><br><br>
+                        <ul>
+                            <li><em>Carrera:</em>&nbsp;</li>
+                            <li><em>Sobre mí:</em>&nbsp;</li>
+                            <li><em>Contacto:</em>
+                                <ul>
+                                    <li>Correo electrónico:&nbsp;</li>
+                                    <li>Mensaje privado en aula virtual:&nbsp;</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="acordeon-item" style="flex: 0 1 calc(33.33% - 10px); margin-bottom: 10px;">
+                    <label class="acordeon-label">Nacho ▼</label>
+                    <div class="acordeon-content" style="display: none;">
+                        <p><strong style="font-size: 0.9375rem;">Nacho</strong></p>
+                        <img src="https://famaf.aulavirtual.unc.edu.ar/draftfile.php/8651/user/draft/915498027/conejito.jpg" alt="conejito" width="612" height="408" class="img-fluid atto_image_button_text-bottom"><br><br>
+                        <ul>
+                            <li><em>Carrera:</em>&nbsp;</li>
+                            <li><em>Sobre mí:</em>&nbsp;</li>
+                            <li><em>Contacto:</em>
+                                <ul>
+                                    <li>Correo electrónico:&nbsp;</li>
+                                    <li>Mensaje privado en aula virtual:&nbsp;</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="acordeon-item" style="flex: 0 1 calc(33.33% - 10px); margin-bottom: 10px;">
+                    <label class="acordeon-label">Ro ▼</label>
+                    <div class="acordeon-content" style="display: none;">
+
+                        <p><strong style="font-size: 0.9375rem;">Ro</strong></p>
+                        <img src="https://famaf.aulavirtual.unc.edu.ar/draftfile.php/8651/user/draft/915498027/conejito.jpg" alt="conejito" width="612" height="408" class="img-fluid atto_image_button_text-bottom"><br><br>
+                        <ul>
+                            <li><em>Carrera:</em> </li>
+                            <li><em>Sobre mí:</em>                             
+                            <li><em>Contacto:</em>
+                                <ul>
+                                    <li>Correo electrónico: &nbsp;</li>
+                                    <li>Mensaje directo por aula virtual&nbsp;</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Columna ¿Qué hacemos? -->
+    <div style="flex: 0 1 calc(50% - 10px); margin-bottom: 0;">
+        <div style="max-width: 750px; margin: 0 auto; padding: 20px; background-color: #FFFFFF;">
+
+            <div style="background-color: rgb(59,131,189); color: #fff; margin-bottom: 20px; padding: 10px; border-radius: 5px;">
+                <h2 style="margin: 0;">¿Qué hacemos?</h2>
+            </div>
+            <p>Nos dedicamos a brindar apoyo a los/as estudiantes de primer año en su transición a la vida universitaria. Este acompañamiento no solo se centra en aspectos de la vida universitaria, sino también en cuestiones académicas.&nbsp;</p>
+            <div style="background-color: cyan; color: #000;">
+                <p><strong><u> Acá podrán ver todas las actividades: <a href="https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=235&amp;section=7#tabs-tree-start">Cronograma</a>.</u></strong></p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Columna ¿Para qué sirve este aula virtual? -->
+    <div style="flex: 0 1 calc(50% - 10px); margin-bottom: 0;">
+        <div style="max-width: 750px; margin: 0 auto; padding: 20px; background-color: #FFFFFF;">
+
+            <div style="background-color: rgb(59,131,189); color: #fff; margin-bottom: 20px; padding: 10px; border-radius: 5px;">
+                <h2 style="margin: 0;">¿Para qué sirve este aula virtual?</h2>
+            </div>
+
+            <p>Este aula virtual es una herramienta para facilitar la comunicación y el diálogo entre tutores y estudiantes. Hay foros de preguntas y respuestas, así como foros de difusión de actividades y talleres.
+            </p>
+        </div>
+    </div>
+
+    <!-- Columna Foro de Avisos y Foro de Preguntas generales -->
+    <div style="flex: 0 1 calc(100% - 20px); margin-bottom: 5px;">
+        <div style="max-width: 800px; margin: 0 auto; padding: 20px; background-color: #FFFFFF;">
+
+            <div style="background-color: rgb(59,131,189); color: #fff; margin-bottom: 20px; padding: 10px; border-radius: 5px;">
+                <h2 style="margin: 0;">Foros generales</h2>
+            </div>
+            <p>El <strong>Foro de Avisos</strong> será donde se llevará a cabo la difusión de actividades y talleres. Además, utilizaremos <strong>Foro de Preguntas Generales</strong> para resolver cualquier duda que puedan tener sobre las actividades, talleres o cualquier aspecto del funcionamiento de la institución.
+            </p>
+        </div>
+    </div>
+</div>
+
+<script>
+    // Añadimos script para el funcionamiento del acordeón
+    var acordeonLabels = document.querySelectorAll('.acordeon-label');
+
+    acordeonLabels.forEach(function(label) {
+        label.addEventListener('click', function() {
+            var content = this.nextElementSibling;
+            content.style.display = (content.style.display === 'block') ? 'none' : 'block';
+        });
+    });
+</script>
